@@ -6,11 +6,11 @@
 
 ## Parte I - Configuração 
 
-1. [O que é JavaFX](Parte\ I/1)
-2. Maven Básico.
-3. Configurando projeto JavaFX com Maven.
-4. Rodando primeira applicação JavaFX e resolução de possiveis erros.
-5. Instalação do JavaFX SceneBuilder
+1. [O que é JavaFX](Parte%20I/1)
+2. [Maven Básico.](Parte%20I/2)
+3. [Configurando projeto JavaFX com Maven.](Parte%20I/3)
+4. [Rodando primeira applicação JavaFX e resolução de possiveis erros.](Parte%20I/4)
+5. [Instalação do JavaFX SceneBuilder](Parte%20I/5)
 
 ## Parte II - JavaFX básico
 

@@ -1,0 +1,1 @@
+# Rodando primeira applicação JavaFX e resolução de possiveis erros
