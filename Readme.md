@@ -24,6 +24,7 @@
 ## Parte III - JavaFX Controls e Containers
 
 - Label
+- Text
 - Button
 - EditText
 - ImageView
